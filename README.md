@@ -6,3 +6,10 @@ My favorite programming language is Terraform and Python because they are versat
 
 
 Revathi's Change : I specialize in Azure and cloud infrastructure.
+
+
+
+## Favorite Programming Language
+
+My favorite programming language is MySQL because I enjoy working with databases and writing queries.
+
