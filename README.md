@@ -9,3 +9,6 @@ Revathi's Change : I specialize in Azure and cloud infrastructure.
 
 # susha
 #Revathi's favourite programming language is Python
+
+
+# Python is interesting and feeling difficult to learn. But exciting as well.
